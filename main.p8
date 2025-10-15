@@ -4,7 +4,7 @@ function _init()
   plr = {
     x = 15,
     y = 15, 
-    spr = 1,v
+    spr = 1,
     vy = 0,
     ammo = 8,
     hp = 9
