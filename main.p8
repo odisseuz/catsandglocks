@@ -73,7 +73,7 @@ end
 
 function _draw()
 
-		camera(plr.x - 60, 0)
+  camera(plr.x - 60, 0)
   cls()
   map()
   spr(plr.spr, plr.x, plr.y)
